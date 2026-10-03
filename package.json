@@ -2,8 +2,11 @@
   "dependencies": {
     "@langchain/community": "^1.1.29",
     "@langchain/core": "^1.2.14",
+    "@langchain/google-genai": "^2.3.2",
     "@langchain/openai": "^1.6.2",
+    "@langchain/qdrant": "^1.0.3",
     "@langchain/textsplitters": "^1.0.2",
+    "@qdrant/js-client-rest": "^1.19.0",
     "chromadb": "^3.5.0",
     "dotenv": "^16.6.1",
     "langchain": "^1.5.15",
