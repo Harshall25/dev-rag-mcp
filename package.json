@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@langchain/community": "^1.1.29",
+    "@langchain/core": "^1.2.14",
+    "@langchain/openai": "^1.6.2",
+    "@langchain/textsplitters": "^1.0.2",
+    "chromadb": "^3.5.0",
+    "dotenv": "^16.6.1",
+    "langchain": "^1.5.15",
+    "mupdf": "^1.28.1",
+    "pdf-parse": "^2.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
